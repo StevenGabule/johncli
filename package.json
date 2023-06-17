@@ -11,5 +11,13 @@
 	"keywords": [
 		"Programming on node",
 		"CLI on NodeJS"
-	]
+	],
+	"license": "MIT",
+	"main": "index.js",
+	"repository": "stevengabule/johncli",
+	"author": {
+		"name": "John Paul Gabule",
+		"email": "lucas.gabule@gmail.com",
+		"url": "https://fb.com/blackwolves"
+	}
 }
